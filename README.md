@@ -11,12 +11,12 @@
 
 **Current Focus and Collaborations:**
 
-- 🔭 I’m currently working on AI-powered music creation tool for music makers
-- 🌱 I’m currently learning P2P distributed systems
+- 🔭 I’m currently working on AI-powered music creation tool for music makers.
+- 🌱 I’m currently learning P2P distributed systems.
 - 🤔 I’m looking for contributors for my fullstack template [go-starter](https://github.com/fmiskovic/go-starter)
 - 💬 Ask me about anything. I am happy to help!
 - 📫 How to reach me: ***fmiskovic@proton.me***
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I once turned coffee into code. Now, I'm on a mission to transform ideas into software magic!
 
 </br>
