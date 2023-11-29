@@ -19,13 +19,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once turned coffee into code. Now, I'm on a mission to transform ideas into software magic!
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=fmiskovic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=fmiskovic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)" />
-
 </br>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+</br>
+<img src="https://github.com/fmiskovic/fmiskovic/blob/<branch-name>/images/stat.svg" alt="Filip's WakaTime Activity"/>
 
 
 📈 **My GitHub Stats:**
