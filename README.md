@@ -21,10 +21,6 @@
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-
-</br>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
