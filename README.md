@@ -22,8 +22,11 @@
 </br>
 
 📊 **This Week I Spent My Time On:**
+
 </br>
-<img src="https://github.com/fmiskovic/fmiskovic/blob/main/images/stat.svg" alt="Filip's WakaTime Activity"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**
