@@ -24,6 +24,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/018c1ac9-a021-491b-ba44-c0e44ecda98c.svg)](https://wakatime.com/@018c1ac9-a021-491b-ba44-c0e44ecda98c)
+
 
 📈 **My GitHub Stats:**
 
