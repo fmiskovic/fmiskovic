@@ -5,7 +5,7 @@
 
 
 
-### Happy to see you here! ![](https://komarev.com/ghpvc/?username=fmiskovic)
+### Happy to see you here! ![](https://komarev.com/ghpvc/?username=fmiskovic&&color=brightgreen)
 
 💻 I am fullstack coding enthusiast with a knack for turning challenges into solutions. On a quest to weave digital dreams into reality. Let's craft some code and make tech magic happen! ✨🚀
 
