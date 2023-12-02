@@ -17,7 +17,7 @@
 - 💬 Ask me about anything. I am happy to help!
 - 📫 How to reach me: ***fmiskovic@proton.me***
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I once turned coffee into code. Now, I'm on a mission to transform ideas into software magic!
+- ⚡ Fun fact: My programming journey started when floppy disks were a thing, and now I'm navigating the world of containers and microservices. Time flies in the tech world! ⏳🚀
 
 </br>
 
