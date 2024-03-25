@@ -23,7 +23,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go         4 hrs 32 mins   ████████████████████████░   96.50 %
+Makefile   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Docker     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
