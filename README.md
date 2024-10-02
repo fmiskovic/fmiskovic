@@ -13,7 +13,6 @@
 
 - 🔭 I’m currently working on AI-powered music creation tool for music makers.
 - 🌱 I’m currently learning P2P distributed systems.
-- 🤔 I’m looking for contributors for my fullstack template [go-starter](https://github.com/fmiskovic/go-starter)
 - 💬 Ask me about anything. I am happy to help!
 - 📫 How to reach me: ***fmiskovic@proton.me***
 - ⚡ Fun fact: My programming journey started when floppy disks were a thing, and now I'm navigating the world of containers and microservices. Time flies in the tech world! ⏳🚀
