@@ -1,6 +1,6 @@
 ### Hi there, I am Filip Mišković 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fmiskovic)
-[![Discord Badge](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/hXJUHyT5)
+[![Discord Badge](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/zdRMr28Y)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/gopherizer)
 
 
