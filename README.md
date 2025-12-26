@@ -1,27 +1,70 @@
-### Hi there, I am Filip 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fmiskovic)
-[![Discord Badge](https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square)](https://discord.gg/zdRMr28Y)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/gopherizer)
+<h1 align="center">Hi, I’m Filip 👋</h1>
 
+<p align="center">
+  Software Engineer • Platform Engineer • Startup Founder
+</p>
 
+<p align="center">
+  Backend • Cloud Native • SRE • IAM
+</p>
 
-### Happy to see you here! ![](https://komarev.com/ghpvc/?username=fmiskovic&&color=brightgreen)
+<hr />
 
-💻 I am fullstack coding enthusiast with a knack for turning challenges into solutions. On a quest to weave digital dreams into reality. Let's craft some code and make tech magic happen! ✨🚀
-
-**Current Focus and Collaborations:**
-
-- 🔭 I’m currently working on AI-powered music creation tool for music makers.
-- 🌱 I’m currently learning P2P distributed systems.
-- 💬 Ask me about anything. I am happy to help!
-- 📫 How to reach me: ***fmiskovic@proton.me***
-- ⚡ Fun fact: My programming journey started when floppy disks were a thing, and now I'm navigating the world of containers and microservices. Time flies in the tech world! ⏳🚀
-
-</br>
-
-
-📈 **My GitHub Stats:**
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmiskovic&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  I’m a <strong>Software Engineer</strong> with a strong focus on
+  <strong>backend systems, platform engineering, container orchestration, and SRE</strong>.
+</p>
+
+<p>
+  In parallel, I work as a <strong>Platform Engineer</strong> with a focus on
+  <strong>Identity and Access Management (IAM)</strong>, designing and operating secure,
+  scalable authentication and authorization systems.
+</p>
+
+<p>
+  I’m also the co-founder of
+  <a href="https://beatshaper.ai" target="_blank"><strong>beatshaper.ai</strong></a>,
+  an AI-generated music platform. Building a startup gives me a pragmatic,
+  product-driven engineering mindset with a strong focus on production readiness.
+</p>
+
+
+<h2 align="center">🛠️ Core Technologies</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</p>
+
+<h2 align="center">💡 What I Work On</h2>
+
+<ul>
+  <li>Backend and distributed system design</li>
+  <li>Cloud-native platforms and Kubernetes workloads</li>
+  <li><strong>IAM</strong>: authentication, authorization, identity providers</li>
+  <li>Reliability, monitoring, and operational excellence (SRE)</li>
+  <li>Automation, CI/CD, and infrastructure tooling</li>
+</ul>
+
+
+<h2 align="center">🧠 Engineering Principles</h2>
+
+<ul>
+  <li>Simplicity over complexity</li>
+  <li>Automation over manual processes</li>
+  <li>Security and identity as first-class concerns</li>
+  <li>Design for failure and observability</li>
+</ul>
+
+<hr />
+
+<p align="center">
+  <em>Building systems that scale and products people actually use.</em> 
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fmiskovic&color=brightgreen"</>
 </p>
